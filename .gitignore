@@ -1,5 +1,5 @@
 .DS_Store
 
-contracts/*
-keosd-data-dir/*
-nodeos-data-dir/*
+contracts
+keosd-data-dir
+nodeos-data-dir
